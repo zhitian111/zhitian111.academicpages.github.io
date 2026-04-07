@@ -1,8 +1,18 @@
-# 当某篇文章或页面在 front matter 里写了 `author: "Haoyu Song"` 时，侧栏会使用这里的资料；
-# 未指定时，侧栏使用 _config.yml 里的 `author`。
-"Haoyu Song":
-  name        : "Haoyu Song"
-  uri         : "https://zhitian111.github.io/zhitian111.academicpages.github.io/"
-  bio         : "Undergraduate student in Artificial Intelligence at Shandong University."
-  avatar      : "profile.jpg"
-  github      : "zhitian111"
+# Authors
+
+Name Name:
+  name        : "Name Name"
+  uri         : "https://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"

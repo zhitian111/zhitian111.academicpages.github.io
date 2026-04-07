@@ -12,9 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "ZhiTian Academic Page"
 title_separator          : "-"
 name                     : &name "Haoyu Song"
-description              : &description "Undergraduate student in Artificial Intelligence at Shandong University."
-url                      : "https://zhitian111.github.io"
-baseurl                  : "/zhitian111.academicpages.github.io"
+description              : &description "Personal academic homepage — undergraduate in Artificial Intelligence at Shandong University."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://zhitian111.github.io" # Project site: use baseurl for the repository path below.
+baseurl                  : "/zhitian111.academicpages.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "zhitian111/zhitian111.academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,15 +24,17 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Haoyu Song"
-  pronouns         : "he/him"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Undergraduate student in Artificial Intelligence at Shandong University."
   location         : "Shandong, China"
   employer         : "Shandong University"
   uri              : # URL
+  email            : "zhitian0420@gmail.com"
+  email_university : "202300130183@mail.sdu.edu.cn"
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
@@ -46,7 +48,7 @@ author:
 
 
   # Repositories and software development
-  bitbucket        : # Username
+  bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "zhitian111"
@@ -55,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

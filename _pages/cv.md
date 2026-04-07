@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Artificial Intelligence, Shandong University, 2023–present
+* B.Eng. in Artificial Intelligence (in progress), Shandong University, 2023–present
 
 Work experience
 ======
-* *(No formal positions listed yet.)*
+* _None listed yet._
 
 Skills
 ======
-* *(To be updated as coursework and projects grow.)*
+* _To be updated (e.g., programming languages, tools, and languages)._
 
 Publications
 ======
@@ -41,4 +41,4 @@ Teaching
   
 Service and leadership
 ======
-* *(To be updated.)*
+* _To be updated._
